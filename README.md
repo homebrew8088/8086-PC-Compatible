@@ -2,8 +2,7 @@
 
 This is a repository for my 8086 PC Compatible project developed in 2021. The Motherboard is built to be generally PC XT/AT compatible.
 
-https://www.homebrew8088.com/
-
+https://www.homebrew8088.com \
 http://www.ebay.com/sch/emil6190/m.html
 
 **Features:**\
